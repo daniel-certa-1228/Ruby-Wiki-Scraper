@@ -1,0 +1,2162 @@
+{
+  "beatle_songs": [
+    {
+      "song_title": "12-Bar Original",
+      "album": "'Anthology 2'",
+      "songwriters":
+        "'John Lennon | Paul McCartney | George Harrison | Ringo Starr'",
+      "lead_vocals": "'Instrumental'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Across the Universe",
+      "album": "'Let It Be'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Act Naturally",
+      "album": "'UK: Help! | US: Yesterday and Today'",
+      "songwriters": "'Johnny Russell | Voni Morrison '",
+      "lead_vocals": "'Starr'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Ain't She Sweet",
+      "album": "'Anthology 1'",
+      "songwriters": "'Jack Yellen | Milton Ager '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1961'"
+    },
+    {
+      "song_title": "All I've Got to Do",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "All My Loving",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "All Things Must Pass",
+      "album": "'Anthology 3'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "All Together Now",
+      "album": "'Yellow Submarine'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "All You Need Is Love",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "And I Love Her",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "And Your Bird Can Sing",
+      "album": "'UK: Revolver | US: Yesterday and Today'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Anna (Go to Him)",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Arthur Alexander '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Another Girl",
+      "album": "'Help!'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Any Time at All",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Ask Me Why",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Baby It's You",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Burt Bacharach | Hal David | Luther Dixon '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Baby,You're a Rich Man",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Baby's in Black",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Back in the U.S.S.R.",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Bad Boy",
+      "album": "'UK: A Collection of Beatles Oldies | US: Beatles VI'",
+      "songwriters": "'Larry Williams '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Bad to Me",
+      "album": "'The Beatles Bootleg Recordings 1963'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "The Ballad of John and Yoko",
+      "album": "'UK: 1967–1970 | US: Hey Jude'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Beautiful Dreamer",
+      "album": "'On Air – Live at the BBC Volume 2'",
+      "songwriters": "'Stephen Foster '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Because",
+      "album": "'Abbey Road'",
+      "songwriters": "'Lennon[25]'",
+      "lead_vocals": "'Lennon | McCartney | Harrison[26]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Because I Know You Love Me So",
+      "album": "'Let It Be... Naked - Fly on the Wall bonus disc'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Being for the Benefit of Mr. Kite!",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Bésame Mucho",
+      "album": "'Anthology 1'",
+      "songwriters": "'Consuelo Velázquez | Sunny Skylar '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Birthday",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Blackbird",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Blue Jay Way",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Boys",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Luther Dixon | Wes Farrell '",
+      "lead_vocals": "'Starr'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Can't Buy Me Love",
+      "album": "'UK: A Hard Day''s Night | US: Hey Jude'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Carol",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Carry That Weight",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney[32]'",
+      "lead_vocals": "'McCartney | (with Lennon",
+      "year": " Harrison"
+    },
+    {
+      "song_title": "Catswalk",
+      "album": "'N/A'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'N/A'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Cayenne",
+      "album": "'Anthology 1'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'Instrumental'",
+      "year": "'1960'"
+    },
+    {
+      "song_title": "Chains",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Gerry Goffin | Carole King '",
+      "lead_vocals": "'Harrison | (with Lennon | McCartney)'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Child of Nature",
+      "album": "'Let It Be... Naked - Fly on the Wall bonus disc'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Christmas Time (Is Here Again)",
+      "album": "'The Beatles' Christmas Album'",
+      "songwriters": "'Lennon | McCartney | Harrison | Starr'",
+      "lead_vocals": "'Lennon | McCartney | Harrison | Starr'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Circles",
+      "album": "''",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Clarabella",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Mike Pingitore '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Come and Get It",
+      "album": "'Anthology 3'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Come Together",
+      "album": "'Abbey Road'",
+      "songwriters": "'Lennon[33]'",
+      "lead_vocals": "'Lennon[33]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "The Continuing Story of Bungalow Bill",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon with Yoko Ono'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Cry Baby Cry",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Cry for a Shadow",
+      "album": "'Anthology 1'",
+      "songwriters": "'Lennon and Harrison'",
+      "lead_vocals": "'Instrumental'",
+      "year": "'1961'"
+    },
+    {
+      "song_title": "Crying, Waiting, Hoping",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Buddy Holly '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "A Day in the Life",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Day Tripper",
+      "album": "'UK: A Collection of Beatles Oldies | US: Yesterday and Today'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Dear Prudence",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Devil in Her Heart",
+      "album": "'UK: With the Beatles | US: The Beatles'' Second Album'",
+      "songwriters": "'Drapkin (a.k.a. Ricky Dee) '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Dig a Pony",
+      "album": "'Let It Be'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Dig It",
+      "album": "'Let It Be'",
+      "songwriters": "'Lennon | McCartney | Harrison | Starr'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Dizzy, Miss Lizzy",
+      "album": "'UK: Help! | US: Beatles VI'",
+      "songwriters": "'Larry Williams '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Do You Want to Know a Secret?",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Doctor Robert",
+      "album": "'UK: Revolver | US: Yesterday and Today'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Don't Bother Me",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Don't Ever Change",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Gerry Goffin | Carole King '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Don't Let Me Down",
+      "album": "'UK: 1967–1970 | US: Hey Jude'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Don't Pass Me By",
+      "album": "'The Beatles'",
+      "songwriters": "'Starkey[b]'",
+      "lead_vocals": "'Starr'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Drive My Car",
+      "album": "'UK: Rubber Soul | US: Yesterday and Today'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Eight Days a Week",
+      "album": "'UK: Beatles for Sale | US: Beatles VI'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Eleanor Rigby",
+      "album": "'Revolver'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "The End",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney[44]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Etcetera",
+      "album": "'Unreleased'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Every Little Thing",
+      "album": "'UK: Beatles for Sale | US: Beatles VI'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title":
+        "Everybody''s Got Something to Hide Except Me and My Monkey",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Everybody''s Trying to Be My Baby",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'Carl Perkins '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Fixing a Hole",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Fancy My Chances with You",
+      "album": "'Let It Be... Naked - Fly on the Wall bonus disc'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Flying",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'Lennon | McCartney | Harrison | Starr'",
+      "lead_vocals": "'Instrumental'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "The Fool on the Hill",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "For No One",
+      "album": "'Revolver'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "For You Blue",
+      "album": "'Let It Be'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Free as a Bird",
+      "album": "'Anthology 1'",
+      "songwriters": "'Lennon | McCartney | Harrison | Starr'",
+      "lead_vocals": "'Lennon",
+      "year": " McCartney and Harrison'"
+    },
+    {
+      "song_title": "From Me to You",
+      "album": "'UK: A Collection of Beatles Oldies | US: 1962–1966'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "From Us to You",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Get Back",
+      "album": "'Let It Be'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Getting Better",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Girl",
+      "album": "'Rubber Soul'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Glad All Over",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Roy C. Bennett | Sid Tepper | Aaron Schroeder '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Glass Onion",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Golden Slumbers",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney[32]'",
+      "lead_vocals": "'McCartney[33]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Good Day Sunshine",
+      "album": "'Revolver'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Good Morning Good Morning",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Good Night",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Starr'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Goodbye",
+      "album": "''",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Got to Get You into My Life",
+      "album": "'Revolver'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Hallelujah, I Love Her So",
+      "album": "'Anthology 1'",
+      "songwriters": "'Ray Charles '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1960'"
+    },
+    {
+      "song_title": "Happiness Is a Warm Gun",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "A Hard Day''s Night",
+      "album": "'UK: A Hard Day''s Night'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Heather",
+      "album": "''",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Hello, Goodbye",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Hello Little Girl",
+      "album": "'Anthology 1'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Help!",
+      "album": "'Help!'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Helter Skelter",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Her Majesty",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Here Comes the Sun",
+      "album": "'Abbey Road'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison[49]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Here, There and Everywhere",
+      "album": "'Revolver'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Hey Bulldog",
+      "album": "'Yellow Submarine'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Hey Jude",
+      "album": "'UK: 1967–1970 | US: Hey Jude'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Hippy Hippy Shake",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Chan Romero '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Hold Me Tight",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Honey Don't",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'Carl Perkins '",
+      "lead_vocals": "'Starr'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Honey Pie",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "The Honeymoon Song",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Mikis Theodorakis | Sansom '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "How Do You Do It?",
+      "album": "'Anthology 1'",
+      "songwriters": "'Mitch Murray '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "I Am the Walrus",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "I Call Your Name",
+      "album": "'UK: Long Tall Sally EP | US: The Beatles' Second Album'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I Don''t Want to Spoil the Party",
+      "album": "'UK: Beatles for Sale | US: Beatles VI'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I Feel Fine",
+      "album": "'UK: A Collection of Beatles Oldies | US: Beatles ''65'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I Forgot to Remember to Forget",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Stan Kesler and Charlie Feathers '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I Got a Woman",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Ray Charles '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I Got to Find My Baby",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I Just Don''t Understand",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Marijohn Wilkin | Kent Westberry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I Lost My Little Girl",
+      "album": "''",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "I Me Mine",
+      "album": "'Let It Be'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1970'"
+    },
+    {
+      "song_title": "I Need You",
+      "album": "'Help!'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "I Saw Her Standing There",
+      "album": "'UK: Please Please Me | US: Meet the Beatles!'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I Should Have Known Better",
+      "album": "'UK: A Hard Day''s Night'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I Wanna Be Your Man",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'Starr'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I Want to Hold Your Hand",
+      "album": "'UK: A Collection of Beatles Oldies | US: Meet the Beatles!'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I Want to Tell You",
+      "album": "'Revolver'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "I Want You (She''s So Heavy)",
+      "album": "'Abbey Road'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon[52]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "I Will",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "If I Fell",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "If I Needed Someone",
+      "album": "'UK: Rubber Soul | US: Yesterday and Today'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "If You''ve Got Trouble",
+      "album": "'Anthology 2'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Starr'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "I'll Be Back",
+      "album": "'UK: A Hard Day''s Night | US: Beatles ''65'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I'll Be on My Way",
+      "album": "'Live at the BBC'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I'll Cry Instead",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I'll Follow the Sun",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I'll Get You",
+      "album": "'UK: Past Masters Volume 1 | US: The Beatles'' Second Album'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I'll Keep You Satisfied",
+      "album": "''",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'Lennon and/or McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I'm a Loser",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I'm Down",
+      "album": "'Rock 'n' Roll Music'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "I'm Gonna Sit Right Down and Cry (Over You)",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Joe Thomas | Howard Biggs '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I'm Happy Just to Dance with You",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "I'm In Love",
+      "album": "'The Beatles Bootleg Recordings 1963'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "I'm Looking Through You",
+      "album": "'Rubber Soul'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "I'm Only Sleeping",
+      "album": "'UK: Revolver | US: Yesterday and Today'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "I'm So Tired",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "I'm Talking About You",
+      "album": "'Live! at the Star-Club in Hamburg",
+      "songwriters": " Germany; 1962'",
+      "lead_vocals": "'Chuck Berry '",
+      "year": "'Lennon'"
+    },
+    {
+      "song_title": "In My Life",
+      "album": "'Rubber Soul'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "In Spite of All the Danger",
+      "album": "'Anthology 1'",
+      "songwriters": "'McCartney and Harrison'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1958'"
+    },
+    {
+      "song_title": "The Inner Light",
+      "album": "'UK: Rarities | US: Rarities'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "It Won't Be Long",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "It's All Too Much",
+      "album": "'Yellow Submarine'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "It's Only Love",
+      "album": "'UK: Help! | US: Rubber Soul'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "I've Got a Feeling",
+      "album": "'Let It Be'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "I''ve Just Seen a Face",
+      "album": "'UK: Help! | US: Rubber Soul'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Jazz Piano Song",
+      "album": "'Let it Be film'",
+      "songwriters": "'McCartney | Starr'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Jessie''s Dream",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'Lennon",
+      "lead_vocals": " McCartney",
+      "year": " Harrison"
+    },
+    {
+      "song_title": "Johnny B. Goode",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Julia",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Junk",
+      "album": "'Anthology 3'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Kansas City/Hey-Hey-Hey-Hey!",
+      "album": "'UK: Beatles for Sale | US: Beatles VI'",
+      "songwriters": "'Jerry Leiber and Mike Stoller/Little Richard '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Keep Your Hands Off My Baby",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Gerry Goffin | Carole King '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Komm, gib mir deine Hand",
+      "album": "'UK: Rarities | US: Something New'",
+      "songwriters": "'Lennon | McCartney | Jean Nicolas | Heinz Hellmer'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Lady Madonna",
+      "album": "'UK: 1967-1970 | US: Hey Jude'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Leave My Kitten Alone",
+      "album": "'Anthology 1'",
+      "songwriters": "'Little Willie John | Titus Turner | James McDougall '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Lend Me Your Comb",
+      "album": "'Anthology 1'",
+      "songwriters": "'Kay Twomey | Fred Wise | Ben Weisman '",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Let It Be",
+      "album": "'Let It Be'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Like Dreamers Do",
+      "album": "'Anthology 1'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Little Child",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Lonesome Tears in My Eyes",
+      "album": "'Live at the BBC'",
+      "songwriters":
+        "'Johnny Burnette | Dorsey Burnette | Paul Burlison | Al Mortimer '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "The Long and Winding Road",
+      "album": "'Let It Be'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Long, Long, Long",
+      "album": "'The Beatles'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Long Tall Sally",
+      "album": "'UK: Long Tall Sally EP | US: The Beatles'' Second Album'",
+      "songwriters":
+        "'Robert Bumps Blackwell | Enotris Johnson | Little Richard '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Looking Glass",
+      "album": "''",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Love Me Do",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Love of the Loved",
+      "album": "''",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Love You To",
+      "album": "'Revolver'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Lovely Rita",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Lucille",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Little Richard | Albert Collins '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Lucy in the Sky with Diamonds",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Madman",
+      "album": "'N/A'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Maggie Mae",
+      "album": "'Let It Be'",
+      "songwriters": "'Traditional",
+      "lead_vocals": " arr. Lennon",
+      "year": " McCartney | Harrison"
+    },
+    {
+      "song_title": "Magical Mystery Tour",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Mailman, Bring Me No More Blues",
+      "album": "'Anthology 3'",
+      "songwriters": "'Ruth Roberts | Bill Katz | Stanley Clayton '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Martha My Dear",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Matchbox",
+      "album": "'UK: Long Tall Sally EP | US: Something New'",
+      "songwriters": "'Carl Perkins | Blind Lemon Jefferson '",
+      "lead_vocals": "'Starr'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Maxwell''s Silver Hammer",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney[56]'",
+      "lead_vocals": "'McCartney[57]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Mean Mr. Mustard",
+      "album": "'Abbey Road'",
+      "songwriters": "'Lennon[58]'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Memphis, Tennessee",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Michelle",
+      "album": "'Rubber Soul'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Misery",
+      "album": "'UK: Please Please Me | US: Introducing… The Beatles'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Money (That''s What I Want)",
+      "album": "'UK: With the Beatles | US: The Beatles Second Album'",
+      "songwriters": "'Berry Gordy | Janie Bradford '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Moonlight Bay",
+      "album": "'Anthology 1'",
+      "songwriters": "'Percy Wenrich | Edward Madden '",
+      "lead_vocals":
+        "'Lennon | McCartney | Harrison | Eric Morecambe | Ernie Wise'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Mother Nature''s Son",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Mr. Moonlight",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'Roy Lee Johnson '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "My Bonnie",
+      "album": "'Anthology 1'",
+      "songwriters": "'Traditional",
+      "lead_vocals": " arr. Tony Sheridan '",
+      "year": "'Sheridan'"
+    },
+    {
+      "song_title": "The Night Before",
+      "album": "'Help!'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "No Reply",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Norwegian Wood (This Bird Has Flown)",
+      "album": "'Rubber Soul'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Not a Second Time",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Not Guilty",
+      "album": "'Anthology 3'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Nothin' Shakin' (But the Leaves on the Trees)",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Eddie Fontaine '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Nowhere Man",
+      "album": "'UK: Rubber Soul | US: Yesterday and Today'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Ob-La-Di, Ob-La-Da",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Octopus''s Garden",
+      "album": "'Abbey Road'",
+      "songwriters": "'Starkey[c]'",
+      "lead_vocals": "'Starr'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Oh! Darling",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney[32]'",
+      "lead_vocals": "'McCartney[59]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Old Brown Shoe",
+      "album": "'UK: 1967–1970 | US: Hey Jude'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "One After 909",
+      "album": "'Let It Be'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "One and One Is Two",
+      "album": "''",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Only a Northern Song",
+      "album": "'Yellow Submarine'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Ooh! My Soul",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Little Richard '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Paperback Writer",
+      "album": "'UK: A Collection of Beatles Oldies | US: Hey Jude'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Penny Lane",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Piggies",
+      "album": "'The Beatles'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Please Mr. Postman",
+      "album": "'UK: With the Beatles | US: The Beatles'' Second Album'",
+      "songwriters":
+        "'Georgia Dobbins | William Garrett | Brian Holland | Robert Bateman | Freddie Gorman '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Please Please Me",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Polythene Pam",
+      "album": "'Abbey Road'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "P.S. I Love You",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Rain",
+      "album": "'UK: Rarities | US: Hey Jude'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Real Love",
+      "album": "'Anthology 2'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1980'"
+    },
+    {
+      "song_title": "Revolution",
+      "album": "'UK: 1967-1970 | US: Hey Jude'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Revolution 1",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Revolution 9",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon | (with Ono and Harrison)'",
+      "lead_vocals": "'Sound Collage'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Rip It Up/Shake, Rattle, and Roll/Blue Suede Shoes",
+      "album": "'Anthology 3'",
+      "songwriters":
+        "'Robert Blackwell | John Marascalco (Rip It Up) | Charles Calhoun(Shake Rattle and Roll) | Carl Perkins (Blue Suede Shoes)'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Rock and Roll Music",
+      "album": "'UK: Beatles for Sale | US: Beatles ''65'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Rocky Raccoon",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Roll Over Beethoven",
+      "album": "'UK: With the Beatles | US: The Beatles'' Second Album'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Run for Your Life",
+      "album": "'Rubber Soul'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Savoy Truffle",
+      "album": "'The Beatles'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Searchin'",
+      "album": "'Anthology 1'",
+      "songwriters": "'Jerry Leiber and Mike Stoller '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "September in the Rain",
+      "album": "''",
+      "songwriters": "'Al Dubin | Harry Warren '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Sexy Sadie",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Sgt. Pepper''s Lonely Hearts Club Band",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Sgt. Pepper''s Lonely Hearts Club Band (Reprise)",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney | Lennon | Harrison'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Shakin'' in the Sixties",
+      "album": "'Unreleased'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "She Came in Through the Bathroom Window",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "She Loves You",
+      "album":
+        "'UK: A Collection of Beatles Oldies | US: The Beatles Second Album'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "She Said She Said",
+      "album": "'Revolver'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "She's a Woman",
+      "album": "'UK: Rarities | US: Beatles ''65'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "She''s Leaving Home",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "The Sheik of Araby",
+      "album": "'Anthology 1'",
+      "songwriters": "'Harry B. Smith | Francis Wheeler | Ted Snyder '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "A Shot of Rhythm and Blues",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Terry Thompson '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Shout",
+      "album": "'Anthology 1'",
+      "songwriters": "'Rudolph Isley | Ronald Isley | O''Kelly Isley Jr. '",
+      "lead_vocals": "'Lennon | McCartney | Harrison | Starr'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Sie liebt dich",
+      "album": "'UK: Rarities | US: Rarities'",
+      "songwriters": "'Lennon | McCartney | Jean Nicolas | Lee Montogue'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Slow Down",
+      "album": "'UK: Long Tall Sally EP | US: Something New'",
+      "songwriters": "'Larry Williams '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "So How Come (No One Loves Me)",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Felice and Boudleaux Bryant '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Soldier of Love (Lay Down Your Arms)",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Buzz Cason | Tony Moon '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Some Other Guy",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Jerry Leiber and Mike Stoller | Richie Barrett '",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Something",
+      "album": "'Abbey Road'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison[60]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Sour Milk Sea",
+      "album": "'Unreleased'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Step Inside Love/Los Paranoias",
+      "album": "'Anthology 3'",
+      "songwriters":
+        "'McCartney (Step Inside Love) | Lennon–McCartney | Harrison–Starr (Los Paranoias)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Strawberry Fields Forever",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Sun King",
+      "album": "'Abbey Road'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Sure to Fall (in Love with You)",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Carl Perkins | Quinton Claunch | Bill Cantrell '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Sweet Little Sixteen",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Take Good Care of My Baby",
+      "album": "''",
+      "songwriters": "'Gerry Goffin | Carole King'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Taking a Trip to Carolina",
+      "album": "'Let It Be... Naked - Fly on the Wall bonus disc'",
+      "songwriters": "'Starr'",
+      "lead_vocals": "'Starr'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "A Taste of Honey",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Bobby Scott | Ric Marlow '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Taxman",
+      "album": "'Revolver'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Teddy Boy",
+      "album": "'Anthology 3'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Tell Me What You See",
+      "album": "'UK: Help! | US: Beatles VI'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Tell Me Why",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Thank You Girl",
+      "album": "'UK: Rarities | US: The Beatles Second Album'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "That Means a Lot",
+      "album": "'Anthology 2'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "That''ll Be the Day",
+      "album": "'Anthology 1'",
+      "songwriters": "'Jerry Allison | Buddy Holly | Norman Petty '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1958'"
+    },
+    {
+      "song_title": "That’s All Right (Mama)",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Arthur Crudup '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "There''s a Place",
+      "album": "'UK: Please Please Me | US: Rarities'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Things We Said Today",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Think for Yourself",
+      "album": "'Rubber Soul'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "This Boy",
+      "album": "'UK: Rarities | US: Meet the Beatles!'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney) and Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Three Cool Cats",
+      "album": "'Anthology 1'",
+      "songwriters": "'Jerry Leiber and Mike Stoller '",
+      "lead_vocals": "'Harrison'",
+      "year": "'1962'"
+    },
+    {
+      "song_title": "Ticket to Ride",
+      "album": "'Help!'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon | (with McCartney)'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Till There Was You",
+      "album": "'UK: With the Beatles | US: Meet the Beatles!'",
+      "songwriters": "'Meredith Willson '",
+      "lead_vocals": "'McCartney'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Tip of My Tongue",
+      "album": "'Unreleased'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "''"
+    },
+    {
+      "song_title": "To Know Her is to Love Her",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Phil Spector '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Tomorrow Never Knows",
+      "album": "'Revolver'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Too Much Monkey Business",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Chuck Berry '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Twist and Shout",
+      "album": "'UK: Please Please Me | US: The Early Beatles'",
+      "songwriters": "'Phil Medley | Bert Berns '",
+      "lead_vocals": "'Lennon'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Two of Us",
+      "album": "'Let It Be'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "Wait",
+      "album": "'Rubber Soul'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Watching Rainbows",
+      "album": "''",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "We Can Work It Out",
+      "album": "'UK: A Collection of Beatles Oldies | US: Yesterday and Today'",
+      "songwriters": "'McCartney | (with Lennon)'",
+      "lead_vocals": "'McCartney | (with Lennon)'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "What Goes On",
+      "album": "'UK: Rubber Soul | US: Yesterday and Today'",
+      "songwriters": "'Lennon | McCartney | Starkey[d]'",
+      "lead_vocals": "'Starr'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "What You're Doing",
+      "album": "'UK: Beatles for Sale | US: Beatles VI'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "What's The New Mary Jane",
+      "album": "'Anthology 3'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "When I Get Home",
+      "album": "'UK: A Hard Day''s Night | US: Something New'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "When I''m Sixty-Four",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "While My Guitar Gently Weeps",
+      "album": "'The Beatles'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Why Don''t We Do It in the Road?",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Wild Honey Pie",
+      "album": "'The Beatles'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "With a Little Help from My Friends",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Starr'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Within You Without You",
+      "album": "'Sgt. Pepper''s Lonely Hearts Club Band'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "Woman",
+      "album": "'Let It Be film'",
+      "songwriters": "'McCartney (as Bernard Webb)'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "The Word",
+      "album": "'Rubber Soul'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'Lennon | (with McCartney and Harrison)'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Words of Love",
+      "album": "'UK: Beatles for Sale | US: Beatles VI'",
+      "songwriters": "'Buddy Holly '",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "Yellow Submarine",
+      "album": "'Revolver'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'Starr'",
+      "year": "'1966'"
+    },
+    {
+      "song_title": "Yer Blues",
+      "album": "'The Beatles'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1968'"
+    },
+    {
+      "song_title": "Yes It Is",
+      "album": "'UK: Rarities | US: Beatles VI'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon McCartney and Harrison'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "Yesterday",
+      "album": "'UK: Help! | US: Yesterday and Today'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "You Can't Do That",
+      "album": "'UK: A Hard Day''s Night | US: The Beatles Second Album'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "You Know My Name (Look Up the Number)",
+      "album": "'UK: Rarities | US: Rarities'",
+      "songwriters": "'Lennon | (with McCartney)'",
+      "lead_vocals": "'Lennon | McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "You Know What to Do",
+      "album": "'Anthology 1'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1964'"
+    },
+    {
+      "song_title": "You Like Me Too Much",
+      "album": "'UK: Help! | US: Beatles VI'",
+      "songwriters": "'Harrison'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "You Never Give Me Your Money",
+      "album": "'Abbey Road'",
+      "songwriters": "'McCartney[61]'",
+      "lead_vocals": "'McCartney[62]'",
+      "year": "'1969'"
+    },
+    {
+      "song_title": "You Won't See Me",
+      "album": "'Rubber Soul'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "You'll Be Mine",
+      "album": "'Anthology 1'",
+      "songwriters": "'Lennon | McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1960'"
+    },
+    {
+      "song_title": "Young Blood",
+      "album": "'Live at the BBC'",
+      "songwriters": "'Jerry Leiber and Mike Stoller'",
+      "lead_vocals": "'Harrison'",
+      "year": "'1963'"
+    },
+    {
+      "song_title": "Your Mother Should Know",
+      "album": "'Magical Mystery Tour'",
+      "songwriters": "'McCartney'",
+      "lead_vocals": "'McCartney'",
+      "year": "'1967'"
+    },
+    {
+      "song_title": "You're Going to Lose That Girl",
+      "album": "'Help!'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "You've Got to Hide Your Love Away",
+      "album": "'Help!'",
+      "songwriters": "'Lennon'",
+      "lead_vocals": "'Lennon'",
+      "year": "'1965'"
+    },
+    {
+      "song_title": "You've Really Got a Hold on Me",
+      "album": "'UK: With the Beatles | US: The Beatles Second Album'",
+      "songwriters": "'Smokey Robinson '",
+      "lead_vocals": "'Lennon and Harrison'",
+      "year": "'1963'"
+    }
+  ]
+}
