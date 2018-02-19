@@ -1,10 +1,14 @@
 require 'json'
 require 'csv'
 
-lines = CSV.read('beatles_songs.csv')
-# puts lines
-# beatles_json = lines.to_json
-# puts beatles_json
+beatles_songs = []
+
+CSV.foreach('beatles_songs.csv') do |line|
+    beatles_songs.push(line[0])
+end
+beatles_songs.shift
+# puts beatles_songs.inspect
+
 File.open('beatles_songs.json', 'w') do |f|
-    f.write(lines.to_json)
+    f.write(beatles_songs.to_json)
 end
